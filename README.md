@@ -18,4 +18,5 @@
 
 ## warning!!!
 - this isn't finished!! the code is messy and i'm not done updating it. i'm just putting it out here sooner rather than later.
+- obviously, some words aren't on spotify as names lmao. you can substitute things like 'they're' to 'they are'
 - you can contact me on discord at dootw if you need to.
