@@ -11,3 +11,7 @@
 - Go to your profile. Copy the ID part of https://open.spotify.com/user/ID (si= and anything after should be excluded).
 - Copy your user ID into the code too.
 - Save the python file and run!
+
+## warning!!!
+- this isn't finished!! the code is messy and i'm not done updating it. i'm just putting it out here sooner rather than later.
+- you can contact me on discord at dootw if you need to.
