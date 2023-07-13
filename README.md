@@ -1,7 +1,7 @@
 # spotibot-lyrics
 ## Info
-- showcase  : https://open.spotify.com/playlist/6qJCBLfyAZ8P87QVqufZIs?si=7b8ae88dfa094ea6
-inspiration : https://open.spotify.com/playlist/2qwoVOZCQBFuKS4sdXl8n7?si=d7817448f14f4a0b
+- showcase    : https://open.spotify.com/playlist/6qJCBLfyAZ8P87QVqufZIs?si=7b8ae88dfa094ea6
+- inspiration : https://open.spotify.com/playlist/2qwoVOZCQBFuKS4sdXl8n7?si=d7817448f14f4a0b
 
 ## Setup
 - make sure you have spotipy installed!!!
