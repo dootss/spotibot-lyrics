@@ -38,6 +38,7 @@ def search(word):
             #print(song_names)
         else: # splitting if searched 750 results, otherwise it'll just hit the max searches and end
             split = list(word)
+            if len(split) == 1: break
             for letter in split:
                 search(letter)
             break
