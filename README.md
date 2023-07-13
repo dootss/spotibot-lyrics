@@ -1,6 +1,8 @@
 # spotibot-lyrics
 
 ## Setup
+- make sure you have spotipy installed!!!
+- ```pip install spotipy``` in cmd
 - Install Playlist Generator.py
 - Go to https://developer.spotify.com/dashboard
 - Create a new app
