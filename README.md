@@ -12,8 +12,8 @@
 - Name, description can be whatever. Set the redirect URI to http://localhost:8080
 - Go to your app's settings
 - Paste the client ID and client secret from the settings page into the code headered 'section for pasting ids'
-- Go to your profile, right click and copy the ID part of https://open.spotify.com/user/ID (si= and anything after should be excluded).
-- Copy your user ID into the code too.
+- Go to your profile, right click and copy the ID part of https://open.spotify.com/user/ID (si= and anything after should be excluded (don't go to this link, go to your profile!!))
+- Paste your user ID into the code too.
 - Save the python file and run!
 
 ## warning!!!
