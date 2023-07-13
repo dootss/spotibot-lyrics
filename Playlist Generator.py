@@ -1,8 +1,7 @@
 import spotipy
 import spotipy.util as util
 import re
-sentence = str(input('Sentence to create a playlist from? '))
-sentence = re.sub('[!.,"?()]','',sentence) #replaces ! . , " ? with nothing as i've seen the program have trouble with them before
+sentence = re.sub('[!.,"?()]','',str(input('Sentence to create a playlist from? '))) #replaces ! . , " ? with nothing as i've seen the program have trouble with them before
 #sentence = re.sub('[-]',' ',sentence)
 print(sentence)
 
